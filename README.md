@@ -1,20 +1,21 @@
-**NAME-LOKESH PONDARA**
+**name-LOKESH PONDARA**
 
-**COMPANY-CODTECH IT SOLUTIONS**
+**company-CODTECH IT SOLUTIONS**
 
-**ID-CT12DS2523**
+**id-CT12DS2523**
 
-**DOMAIN-CYBER SECURITY & ETHICAL HACKING**
+**domain-CYBER SECURITY & ETHICAL HACKING**
 
-**DURATION-SEPTEMBER TO NOVEMBER**
+**duration-SEPTEMBER TO NOVEMBER**
 
 
-##Project Overview##
+**Project Overview**
+
 Goal: Develop a tool that evaluates passwords for strength and provides actionable feedback to users. The tool analyzes key factors such as length, complexity, and uniqueness to rate the strength of passwords and suggest improvements.
 
-##Core Functionalities:##
+**core Functionalities:**
 
-##Length Evaluation:##
+**Length Evaluation:**
 
 Check if the password meets recommended length requirements (e.g., 8-12+ characters).
 Provide feedback to the user if the password is too short or if longer passwords would offer better security.
@@ -31,19 +32,21 @@ Score and Feedback System:
 The tool provides a strength score (Weak, Medium, Strong) based on the analysis.
 Detailed feedback helps users understand areas of improvement, such as increasing length, adding complexity, or avoiding common patterns.
 Technical Specifications
-Programming Language:
+
+**Programming Language:**
 
 Implemented in Python for simplicity and wide accessibility.
 
 
-##Libraries and Tools:##
+**Libraries and Tools:**
 
 Utilizes Regular Expressions (re module) to detect character types and patterns.
 Scoring Logic based on simple if-else conditions that assess different password metrics.
 #Output:#
 
 Returns a numeric score and textual feedback to guide users on making their passwords more secure.
-#Benefits#
+
+**Benefits**
 
 Improves Security: Helps users create strong passwords that are resistant to attacks.
 
