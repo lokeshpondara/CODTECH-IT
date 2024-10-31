@@ -62,6 +62,7 @@ Entropy Calculation: Use entropy-based scoring to measure randomness in password
 GUI Implementation: Develop a graphical interface to make the tool more accessible for non-technical users.
 
 This project is highly relevant in the context of cybersecurity, especially in today’s environment where password strength is critical in preventing unauthorized access.
+![image](https://github.com/user-attachments/assets/04eb6516-1233-4397-8475-e0bd30887c14)
 
 
 
