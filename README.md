@@ -1,8 +1,13 @@
 **NAME-LOKESH PONDARA**
+
 **COMPANY-CODTECH IT SOLUTIONS**
+
 **ID-CT12DS2523**
+
 **DOMAIN-CYBER SECURITY & ETHICAL HACKING**
+
 **DURATION-SEPTEMBER TO NOVEMBER**
+
 
 ##Project Overview##
 Goal: Develop a tool that evaluates passwords for strength and provides actionable feedback to users. The tool analyzes key factors such as length, complexity, and uniqueness to rate the strength of passwords and suggest improvements.
